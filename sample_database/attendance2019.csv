@@ -1,0 +1,1001 @@
+,studentID,date,excused,period
+0,374,2019-11-03,Unexcused,Science
+1,2310,2019-12-31,Unexcused,Science
+2,2345,2019-09-27,Unexcused,Mathematics
+3,1571,2019-08-29,Excused,Science
+4,1284,2019-10-11,Excused,Mathematics
+5,1707,2020-02-12,Unexcused,Health/Physical Education
+6,1148,2019-09-17,Excused,Social Studies
+7,923,2020-01-31,Unexcused,Social Studies
+8,459,2020-02-03,Excused,Mathematics
+9,1246,2020-01-12,Excused,Social Studies
+10,639,2019-12-28,Excused,Social Studies
+11,1519,2019-12-25,Unexcused,Social Studies
+12,303,2019-10-20,Unexcused,Social Studies
+13,1758,2019-12-09,Unexcused,Social Studies
+14,2007,2020-02-05,Excused,Social Studies
+15,1840,2020-04-03,Unexcused,Social Studies
+16,2013,2020-05-02,Unexcused,Science
+17,1985,2020-04-08,Excused,Social Studies
+18,1549,2019-10-28,Excused,Social Studies
+19,422,2019-12-24,Excused,Health/Physical Education
+20,2456,2019-10-15,Unexcused,Language Arts
+21,1196,2019-10-17,Excused,Health/Physical Education
+22,760,2020-02-19,Unexcused,Science
+23,974,2020-04-18,Unexcused,Social Studies
+24,887,2019-12-18,Unexcused,Mathematics
+25,2183,2019-12-07,Unexcused,Mathematics
+26,1494,2020-05-04,Unexcused,Language Arts
+27,351,2020-02-13,Unexcused,Mathematics
+28,1937,2019-12-28,Unexcused,Science
+29,59,2020-05-03,Unexcused,Health/Physical Education
+30,282,2020-02-25,Unexcused,Language Arts
+31,171,2020-04-07,Excused,Science
+32,128,2020-04-09,Excused,Science
+33,2007,2020-01-31,Excused,Social Studies
+34,264,2020-03-17,Unexcused,Mathematics
+35,1475,2019-09-30,Unexcused,Health/Physical Education
+36,1332,2019-10-13,Excused,Science
+37,1464,2019-12-19,Unexcused,Health/Physical Education
+38,460,2019-12-21,Unexcused,Mathematics
+39,1931,2020-02-15,Unexcused,Mathematics
+40,1142,2020-04-06,Excused,Social Studies
+41,131,2020-04-11,Unexcused,Mathematics
+42,144,2020-01-08,Excused,Science
+43,952,2020-01-15,Unexcused,Language Arts
+44,978,2019-10-30,Excused,Health/Physical Education
+45,1275,2019-09-21,Unexcused,Health/Physical Education
+46,1468,2020-04-11,Excused,Science
+47,139,2019-09-24,Excused,Science
+48,90,2019-09-30,Excused,Mathematics
+49,148,2020-01-30,Excused,Social Studies
+50,1230,2020-04-22,Excused,Social Studies
+51,1729,2020-04-21,Excused,Science
+52,2409,2019-09-17,Excused,Science
+53,1991,2020-04-15,Unexcused,Science
+54,437,2019-10-03,Excused,Social Studies
+55,2462,2019-10-01,Excused,Social Studies
+56,1511,2019-10-24,Excused,Mathematics
+57,754,2019-12-11,Excused,Mathematics
+58,38,2019-11-26,Excused,Social Studies
+59,175,2020-03-23,Unexcused,Health/Physical Education
+60,863,2019-10-17,Excused,Language Arts
+61,1931,2020-01-15,Excused,Health/Physical Education
+62,137,2019-09-25,Excused,Language Arts
+63,2188,2019-08-29,Excused,Social Studies
+64,459,2020-01-03,Unexcused,Mathematics
+65,1636,2019-11-13,Unexcused,Language Arts
+66,1324,2019-09-10,Unexcused,Science
+67,1821,2019-10-02,Excused,Science
+68,1252,2019-12-24,Unexcused,Health/Physical Education
+69,402,2020-01-16,Unexcused,Mathematics
+70,1002,2019-11-20,Unexcused,Social Studies
+71,1292,2020-02-08,Excused,Science
+72,2120,2020-02-14,Unexcused,Language Arts
+73,1039,2020-02-14,Unexcused,Social Studies
+74,2215,2020-04-05,Unexcused,Health/Physical Education
+75,735,2019-11-25,Unexcused,Health/Physical Education
+76,523,2020-03-05,Unexcused,Health/Physical Education
+77,133,2019-10-27,Unexcused,Social Studies
+78,39,2019-10-16,Unexcused,Social Studies
+79,2175,2020-01-09,Unexcused,Science
+80,2074,2019-12-18,Excused,Mathematics
+81,971,2019-10-08,Unexcused,Health/Physical Education
+82,1051,2020-03-29,Excused,Mathematics
+83,367,2019-09-20,Excused,Mathematics
+84,1927,2019-12-02,Excused,Science
+85,2470,2019-09-13,Excused,Language Arts
+86,1179,2020-02-08,Excused,Health/Physical Education
+87,1044,2019-09-17,Excused,Mathematics
+88,690,2020-01-29,Excused,Mathematics
+89,1461,2020-04-24,Excused,Science
+90,1059,2020-01-24,Unexcused,Mathematics
+91,1084,2019-09-29,Unexcused,Language Arts
+92,2468,2019-09-15,Unexcused,Mathematics
+93,2116,2020-04-15,Excused,Mathematics
+94,2288,2020-01-02,Unexcused,Language Arts
+95,1249,2020-01-02,Unexcused,Science
+96,1636,2019-12-08,Unexcused,Health/Physical Education
+97,108,2020-01-20,Excused,Science
+98,840,2020-03-16,Excused,Mathematics
+99,1567,2019-09-22,Excused,Social Studies
+100,1423,2020-04-16,Unexcused,Health/Physical Education
+101,719,2020-04-06,Excused,Science
+102,2333,2020-03-13,Excused,Social Studies
+103,296,2019-11-12,Unexcused,Social Studies
+104,389,2020-04-03,Excused,Health/Physical Education
+105,210,2019-11-28,Excused,Science
+106,1625,2019-11-23,Unexcused,Social Studies
+107,570,2019-11-01,Excused,Health/Physical Education
+108,719,2019-11-20,Unexcused,Science
+109,600,2020-04-22,Unexcused,Health/Physical Education
+110,2148,2019-09-25,Excused,Health/Physical Education
+111,1787,2019-09-19,Excused,Science
+112,2315,2019-11-01,Unexcused,Mathematics
+113,2050,2019-10-26,Unexcused,Health/Physical Education
+114,2407,2019-12-25,Unexcused,Mathematics
+115,1789,2020-01-15,Excused,Science
+116,2330,2019-12-02,Excused,Social Studies
+117,65,2019-10-31,Excused,Language Arts
+118,770,2020-04-04,Unexcused,Social Studies
+119,544,2019-12-06,Unexcused,Social Studies
+120,694,2020-04-17,Unexcused,Language Arts
+121,1555,2019-10-25,Excused,Science
+122,1400,2020-02-15,Unexcused,Social Studies
+123,2321,2019-12-27,Excused,Mathematics
+124,1304,2019-11-10,Unexcused,Language Arts
+125,334,2019-09-07,Unexcused,Social Studies
+126,1265,2019-09-11,Excused,Science
+127,587,2019-10-12,Excused,Language Arts
+128,1176,2020-02-26,Unexcused,Health/Physical Education
+129,532,2020-05-01,Excused,Mathematics
+130,2366,2019-09-06,Excused,Mathematics
+131,1609,2020-03-08,Unexcused,Social Studies
+132,2278,2019-09-30,Unexcused,Health/Physical Education
+133,1862,2020-02-03,Unexcused,Language Arts
+134,1405,2020-03-17,Unexcused,Social Studies
+135,956,2019-10-05,Unexcused,Science
+136,1569,2020-04-07,Excused,Mathematics
+137,335,2019-11-18,Unexcused,Social Studies
+138,174,2019-10-05,Excused,Mathematics
+139,978,2020-03-22,Excused,Language Arts
+140,966,2019-10-10,Excused,Science
+141,973,2020-02-05,Excused,Science
+142,1920,2020-01-18,Excused,Language Arts
+143,1984,2020-01-16,Unexcused,Mathematics
+144,1538,2019-11-07,Excused,Language Arts
+145,1985,2020-02-04,Unexcused,Health/Physical Education
+146,1640,2020-04-08,Excused,Health/Physical Education
+147,752,2019-12-31,Unexcused,Mathematics
+148,1123,2019-10-14,Unexcused,Science
+149,265,2019-10-09,Excused,Mathematics
+150,1141,2020-03-31,Excused,Mathematics
+151,1287,2020-01-31,Unexcused,Health/Physical Education
+152,1341,2019-12-17,Excused,Language Arts
+153,1436,2020-04-25,Unexcused,Social Studies
+154,988,2020-05-04,Unexcused,Science
+155,729,2020-03-01,Unexcused,Science
+156,2258,2019-10-10,Unexcused,Language Arts
+157,1130,2019-08-28,Unexcused,Health/Physical Education
+158,1812,2020-02-13,Unexcused,Social Studies
+159,266,2019-12-29,Excused,Social Studies
+160,1610,2019-12-09,Unexcused,Social Studies
+161,1236,2019-09-17,Unexcused,Language Arts
+162,1636,2020-03-18,Excused,Science
+163,2371,2020-02-13,Unexcused,Mathematics
+164,1635,2020-03-04,Unexcused,Mathematics
+165,1131,2019-12-20,Unexcused,Social Studies
+166,46,2019-11-08,Excused,Health/Physical Education
+167,255,2020-02-11,Unexcused,Health/Physical Education
+168,914,2019-09-10,Unexcused,Mathematics
+169,836,2020-03-17,Excused,Mathematics
+170,702,2020-01-24,Unexcused,Mathematics
+171,577,2019-12-18,Excused,Health/Physical Education
+172,626,2020-01-25,Excused,Health/Physical Education
+173,91,2020-02-13,Excused,Language Arts
+174,296,2020-01-06,Excused,Science
+175,470,2019-11-08,Unexcused,Mathematics
+176,2399,2020-01-30,Unexcused,Mathematics
+177,1740,2020-02-02,Excused,Science
+178,2170,2020-03-25,Unexcused,Science
+179,1650,2019-10-05,Unexcused,Language Arts
+180,564,2020-04-17,Unexcused,Mathematics
+181,294,2019-11-29,Excused,Mathematics
+182,2333,2019-09-03,Unexcused,Health/Physical Education
+183,2441,2020-02-05,Unexcused,Mathematics
+184,1847,2019-09-06,Excused,Social Studies
+185,84,2019-10-29,Excused,Health/Physical Education
+186,1538,2019-10-09,Unexcused,Social Studies
+187,70,2020-02-28,Unexcused,Mathematics
+188,2324,2019-11-11,Unexcused,Health/Physical Education
+189,71,2020-04-30,Unexcused,Science
+190,954,2019-12-28,Unexcused,Science
+191,1619,2019-09-18,Unexcused,Language Arts
+192,685,2019-11-01,Unexcused,Science
+193,1245,2020-01-24,Unexcused,Health/Physical Education
+194,1858,2019-12-10,Excused,Social Studies
+195,1237,2019-10-25,Unexcused,Language Arts
+196,886,2020-04-21,Excused,Mathematics
+197,1754,2020-03-11,Excused,Social Studies
+198,191,2019-10-21,Excused,Language Arts
+199,260,2019-09-29,Excused,Mathematics
+200,972,2020-04-17,Excused,Mathematics
+201,627,2019-09-22,Excused,Health/Physical Education
+202,1655,2019-08-31,Unexcused,Health/Physical Education
+203,1701,2019-11-14,Unexcused,Social Studies
+204,1185,2019-09-04,Unexcused,Mathematics
+205,2130,2020-04-29,Unexcused,Language Arts
+206,2264,2020-02-16,Excused,Mathematics
+207,1505,2020-02-01,Unexcused,Health/Physical Education
+208,683,2019-12-17,Excused,Language Arts
+209,624,2019-12-25,Excused,Science
+210,2311,2020-01-17,Excused,Language Arts
+211,570,2019-12-17,Unexcused,Social Studies
+212,1043,2019-11-27,Excused,Science
+213,1480,2019-09-02,Unexcused,Mathematics
+214,1203,2020-05-02,Excused,Mathematics
+215,531,2019-10-08,Excused,Social Studies
+216,2345,2019-08-29,Unexcused,Science
+217,2018,2019-12-31,Unexcused,Social Studies
+218,364,2019-12-16,Excused,Language Arts
+219,262,2019-10-04,Excused,Language Arts
+220,1445,2019-10-22,Excused,Health/Physical Education
+221,577,2019-09-23,Unexcused,Mathematics
+222,1485,2019-11-28,Unexcused,Language Arts
+223,796,2020-03-13,Excused,Language Arts
+224,283,2020-03-25,Unexcused,Science
+225,136,2019-10-16,Excused,Language Arts
+226,36,2019-10-08,Unexcused,Health/Physical Education
+227,1045,2019-10-21,Excused,Language Arts
+228,79,2020-02-04,Excused,Mathematics
+229,1946,2019-09-12,Excused,Mathematics
+230,2243,2019-12-29,Unexcused,Science
+231,1983,2020-04-26,Excused,Health/Physical Education
+232,2018,2020-02-13,Excused,Social Studies
+233,2002,2020-04-24,Unexcused,Language Arts
+234,1559,2019-09-09,Excused,Social Studies
+235,2231,2019-10-01,Unexcused,Health/Physical Education
+236,725,2020-04-13,Excused,Health/Physical Education
+237,935,2020-01-04,Unexcused,Mathematics
+238,421,2020-03-27,Excused,Social Studies
+239,2175,2019-09-22,Unexcused,Health/Physical Education
+240,271,2020-03-04,Unexcused,Health/Physical Education
+241,1678,2019-09-07,Excused,Social Studies
+242,1213,2020-03-31,Unexcused,Social Studies
+243,932,2020-01-30,Excused,Health/Physical Education
+244,304,2020-04-15,Unexcused,Mathematics
+245,1377,2020-04-25,Unexcused,Social Studies
+246,952,2020-03-25,Excused,Science
+247,859,2019-09-05,Excused,Language Arts
+248,1619,2020-01-22,Unexcused,Health/Physical Education
+249,698,2020-02-01,Unexcused,Health/Physical Education
+250,2020,2019-09-11,Excused,Science
+251,2273,2020-01-02,Unexcused,Language Arts
+252,650,2020-02-13,Unexcused,Mathematics
+253,1954,2019-10-01,Unexcused,Science
+254,823,2019-09-05,Excused,Mathematics
+255,789,2019-12-23,Excused,Language Arts
+256,2157,2019-11-08,Unexcused,Health/Physical Education
+257,188,2019-10-01,Excused,Language Arts
+258,2403,2020-02-17,Unexcused,Science
+259,1620,2019-12-25,Unexcused,Social Studies
+260,1926,2019-10-22,Excused,Health/Physical Education
+261,2500,2019-11-18,Unexcused,Language Arts
+262,664,2019-12-01,Excused,Science
+263,1533,2019-11-22,Excused,Science
+264,1380,2020-01-21,Unexcused,Health/Physical Education
+265,1761,2020-04-21,Unexcused,Health/Physical Education
+266,1657,2020-02-01,Excused,Social Studies
+267,2168,2019-10-24,Excused,Language Arts
+268,893,2020-02-25,Unexcused,Science
+269,2244,2020-01-15,Excused,Social Studies
+270,2310,2019-09-14,Excused,Mathematics
+271,2146,2020-01-05,Unexcused,Language Arts
+272,1362,2019-11-24,Unexcused,Mathematics
+273,215,2020-02-16,Excused,Science
+274,2430,2019-11-21,Excused,Language Arts
+275,861,2019-10-07,Excused,Language Arts
+276,5,2019-09-18,Unexcused,Social Studies
+277,1584,2020-02-28,Unexcused,Mathematics
+278,1522,2020-02-10,Excused,Science
+279,2310,2020-01-27,Unexcused,Mathematics
+280,1489,2020-02-06,Unexcused,Mathematics
+281,1615,2020-04-06,Unexcused,Language Arts
+282,961,2019-09-04,Unexcused,Science
+283,883,2020-01-16,Unexcused,Social Studies
+284,844,2020-03-07,Unexcused,Mathematics
+285,2446,2020-03-06,Unexcused,Mathematics
+286,200,2019-12-19,Unexcused,Social Studies
+287,1450,2020-02-28,Unexcused,Science
+288,1737,2019-08-28,Unexcused,Social Studies
+289,287,2019-09-20,Unexcused,Health/Physical Education
+290,2143,2019-10-03,Unexcused,Science
+291,1030,2019-10-27,Excused,Social Studies
+292,1759,2020-03-25,Excused,Language Arts
+293,291,2019-10-17,Excused,Language Arts
+294,1052,2019-09-04,Excused,Health/Physical Education
+295,724,2019-10-04,Unexcused,Health/Physical Education
+296,2151,2019-10-27,Unexcused,Science
+297,458,2020-04-19,Excused,Language Arts
+298,144,2020-04-08,Excused,Health/Physical Education
+299,602,2019-12-06,Excused,Language Arts
+300,1374,2020-04-07,Unexcused,Language Arts
+301,2454,2020-04-10,Excused,Science
+302,400,2019-10-29,Excused,Social Studies
+303,1798,2020-04-10,Unexcused,Mathematics
+304,1862,2019-10-05,Excused,Mathematics
+305,1614,2020-01-12,Excused,Social Studies
+306,1211,2020-02-20,Excused,Mathematics
+307,1538,2019-12-02,Unexcused,Health/Physical Education
+308,128,2020-01-16,Excused,Language Arts
+309,2456,2020-02-06,Excused,Language Arts
+310,2121,2020-02-04,Excused,Health/Physical Education
+311,994,2020-03-25,Excused,Health/Physical Education
+312,1832,2019-09-22,Excused,Science
+313,2251,2019-12-04,Excused,Mathematics
+314,1012,2019-09-21,Unexcused,Social Studies
+315,914,2020-03-08,Excused,Health/Physical Education
+316,1648,2020-04-03,Unexcused,Science
+317,2431,2020-01-23,Excused,Health/Physical Education
+318,10,2019-09-25,Unexcused,Science
+319,1773,2019-09-02,Excused,Social Studies
+320,751,2020-02-13,Excused,Science
+321,1514,2019-11-10,Unexcused,Health/Physical Education
+322,1500,2020-04-25,Excused,Mathematics
+323,319,2019-10-05,Unexcused,Science
+324,68,2019-12-11,Unexcused,Mathematics
+325,1934,2020-03-05,Excused,Health/Physical Education
+326,11,2020-03-12,Excused,Mathematics
+327,497,2019-11-02,Unexcused,Mathematics
+328,1257,2019-10-08,Excused,Science
+329,315,2019-12-14,Unexcused,Language Arts
+330,2041,2019-10-04,Excused,Social Studies
+331,2103,2020-02-28,Excused,Health/Physical Education
+332,116,2020-02-27,Unexcused,Health/Physical Education
+333,840,2019-10-16,Excused,Mathematics
+334,2127,2020-02-14,Excused,Social Studies
+335,2487,2020-04-11,Excused,Language Arts
+336,180,2019-09-11,Unexcused,Science
+337,615,2019-11-15,Unexcused,Health/Physical Education
+338,1755,2020-02-27,Unexcused,Language Arts
+339,615,2020-02-21,Excused,Language Arts
+340,2109,2020-01-03,Unexcused,Social Studies
+341,1516,2019-09-13,Unexcused,Health/Physical Education
+342,2447,2019-10-28,Unexcused,Language Arts
+343,689,2019-12-15,Unexcused,Social Studies
+344,226,2020-04-24,Excused,Mathematics
+345,597,2020-04-02,Excused,Mathematics
+346,1204,2020-04-07,Excused,Mathematics
+347,2097,2020-03-26,Unexcused,Social Studies
+348,777,2019-09-13,Unexcused,Social Studies
+349,1905,2020-01-12,Unexcused,Social Studies
+350,2069,2020-02-15,Excused,Language Arts
+351,83,2020-03-16,Unexcused,Language Arts
+352,1207,2020-03-29,Unexcused,Language Arts
+353,360,2019-12-16,Unexcused,Mathematics
+354,877,2020-01-05,Unexcused,Mathematics
+355,1791,2019-12-11,Excused,Science
+356,2115,2020-02-06,Unexcused,Social Studies
+357,592,2020-04-17,Excused,Social Studies
+358,1176,2020-02-12,Excused,Social Studies
+359,1840,2020-04-06,Excused,Health/Physical Education
+360,2255,2019-09-22,Unexcused,Language Arts
+361,644,2019-12-09,Unexcused,Language Arts
+362,1334,2020-01-11,Unexcused,Science
+363,2157,2020-02-27,Unexcused,Language Arts
+364,2239,2020-01-14,Unexcused,Social Studies
+365,1231,2019-12-15,Excused,Language Arts
+366,192,2020-01-16,Unexcused,Health/Physical Education
+367,2276,2020-01-02,Unexcused,Health/Physical Education
+368,872,2019-11-04,Excused,Health/Physical Education
+369,290,2019-09-17,Excused,Language Arts
+370,374,2020-02-24,Unexcused,Science
+371,1701,2020-03-08,Unexcused,Health/Physical Education
+372,366,2019-11-13,Excused,Science
+373,1176,2019-10-08,Excused,Social Studies
+374,2377,2019-10-12,Excused,Science
+375,1320,2020-02-26,Excused,Health/Physical Education
+376,1388,2020-01-02,Excused,Science
+377,957,2019-11-14,Excused,Mathematics
+378,953,2019-12-13,Excused,Language Arts
+379,859,2019-12-23,Unexcused,Health/Physical Education
+380,1455,2019-08-29,Excused,Health/Physical Education
+381,2040,2019-12-08,Excused,Mathematics
+382,603,2020-03-25,Unexcused,Social Studies
+383,576,2019-10-23,Unexcused,Science
+384,66,2020-02-10,Unexcused,Health/Physical Education
+385,1490,2020-02-22,Unexcused,Science
+386,37,2019-10-16,Excused,Science
+387,1183,2019-12-14,Excused,Science
+388,2146,2019-09-19,Excused,Science
+389,1925,2019-12-17,Unexcused,Social Studies
+390,1989,2020-01-03,Unexcused,Mathematics
+391,1048,2020-03-21,Excused,Language Arts
+392,1229,2019-09-12,Excused,Science
+393,2073,2019-09-26,Excused,Health/Physical Education
+394,281,2019-09-07,Unexcused,Mathematics
+395,68,2020-01-22,Excused,Health/Physical Education
+396,1234,2020-02-02,Unexcused,Language Arts
+397,882,2020-03-26,Excused,Science
+398,463,2019-09-15,Unexcused,Social Studies
+399,1217,2019-10-18,Excused,Language Arts
+400,109,2020-04-20,Unexcused,Language Arts
+401,2420,2019-12-17,Unexcused,Science
+402,1964,2019-10-11,Excused,Language Arts
+403,1640,2020-03-04,Excused,Science
+404,670,2020-01-10,Excused,Language Arts
+405,1765,2020-03-11,Excused,Health/Physical Education
+406,363,2019-10-19,Excused,Science
+407,1019,2020-02-18,Excused,Mathematics
+408,42,2019-08-25,Excused,Social Studies
+409,480,2020-01-14,Unexcused,Mathematics
+410,2477,2020-01-25,Excused,Health/Physical Education
+411,2149,2020-01-27,Unexcused,Mathematics
+412,2188,2019-09-03,Unexcused,Social Studies
+413,1236,2020-03-28,Excused,Mathematics
+414,483,2020-01-18,Excused,Language Arts
+415,1218,2019-10-24,Unexcused,Health/Physical Education
+416,758,2020-03-22,Unexcused,Language Arts
+417,579,2019-10-24,Unexcused,Language Arts
+418,1443,2020-03-30,Unexcused,Science
+419,507,2020-01-12,Excused,Science
+420,1426,2020-03-04,Unexcused,Mathematics
+421,655,2020-04-19,Unexcused,Social Studies
+422,760,2019-10-10,Unexcused,Language Arts
+423,871,2020-02-11,Unexcused,Social Studies
+424,2247,2019-08-30,Excused,Science
+425,205,2020-01-19,Excused,Science
+426,1980,2019-10-08,Unexcused,Health/Physical Education
+427,551,2020-02-01,Excused,Social Studies
+428,1985,2019-10-02,Excused,Health/Physical Education
+429,522,2020-03-03,Unexcused,Health/Physical Education
+430,1939,2019-11-20,Excused,Language Arts
+431,2045,2020-01-17,Unexcused,Science
+432,252,2019-10-09,Unexcused,Health/Physical Education
+433,617,2020-04-04,Excused,Mathematics
+434,2313,2019-10-27,Excused,Social Studies
+435,828,2020-01-19,Unexcused,Mathematics
+436,1924,2020-04-07,Excused,Mathematics
+437,905,2020-01-05,Excused,Social Studies
+438,95,2019-11-12,Excused,Language Arts
+439,433,2020-03-15,Unexcused,Language Arts
+440,1619,2020-01-18,Unexcused,Health/Physical Education
+441,2030,2020-03-20,Excused,Language Arts
+442,1724,2020-03-07,Excused,Language Arts
+443,1315,2020-05-01,Unexcused,Mathematics
+444,1362,2020-03-25,Excused,Language Arts
+445,2173,2020-03-05,Excused,Science
+446,1989,2019-09-11,Unexcused,Social Studies
+447,1313,2019-11-01,Unexcused,Mathematics
+448,528,2019-12-27,Excused,Science
+449,1011,2019-12-06,Unexcused,Social Studies
+450,1952,2020-03-20,Unexcused,Health/Physical Education
+451,2073,2020-02-02,Excused,Social Studies
+452,140,2019-12-27,Unexcused,Language Arts
+453,429,2019-10-01,Excused,Health/Physical Education
+454,404,2019-11-07,Unexcused,Science
+455,282,2020-02-08,Excused,Mathematics
+456,17,2020-01-14,Excused,Mathematics
+457,1350,2019-09-09,Unexcused,Social Studies
+458,761,2019-09-16,Excused,Social Studies
+459,2446,2020-02-19,Excused,Mathematics
+460,1047,2019-09-17,Excused,Mathematics
+461,1102,2020-04-16,Excused,Science
+462,2166,2019-10-10,Unexcused,Language Arts
+463,969,2020-04-14,Excused,Health/Physical Education
+464,643,2020-02-10,Excused,Health/Physical Education
+465,366,2019-11-25,Excused,Health/Physical Education
+466,1432,2020-02-29,Unexcused,Science
+467,1714,2019-12-27,Excused,Social Studies
+468,2086,2019-10-26,Unexcused,Health/Physical Education
+469,267,2020-02-06,Excused,Social Studies
+470,2178,2019-10-31,Excused,Language Arts
+471,286,2019-12-06,Excused,Science
+472,761,2019-12-18,Excused,Language Arts
+473,2304,2020-02-17,Unexcused,Mathematics
+474,905,2019-12-27,Excused,Social Studies
+475,306,2019-11-02,Unexcused,Health/Physical Education
+476,406,2019-10-03,Unexcused,Science
+477,1537,2020-04-28,Excused,Social Studies
+478,1418,2020-04-20,Unexcused,Language Arts
+479,559,2020-01-15,Excused,Health/Physical Education
+480,680,2019-09-22,Unexcused,Language Arts
+481,1692,2019-09-18,Excused,Language Arts
+482,1474,2020-04-24,Unexcused,Health/Physical Education
+483,1780,2019-09-13,Excused,Health/Physical Education
+484,305,2020-04-05,Unexcused,Social Studies
+485,911,2020-03-29,Unexcused,Science
+486,1484,2020-01-02,Excused,Mathematics
+487,248,2019-10-14,Excused,Mathematics
+488,201,2019-10-30,Unexcused,Health/Physical Education
+489,2403,2020-02-22,Unexcused,Social Studies
+490,381,2019-08-26,Excused,Mathematics
+491,606,2020-03-01,Excused,Science
+492,172,2020-04-19,Excused,Mathematics
+493,1248,2020-03-30,Unexcused,Social Studies
+494,415,2020-01-09,Excused,Mathematics
+495,553,2019-11-02,Unexcused,Science
+496,98,2019-09-19,Unexcused,Language Arts
+497,18,2020-04-29,Excused,Mathematics
+498,1836,2019-12-27,Unexcused,Mathematics
+499,1796,2020-01-07,Excused,Health/Physical Education
+500,2499,2020-03-09,Excused,Mathematics
+501,2360,2019-10-18,Unexcused,Social Studies
+502,2314,2019-10-30,Unexcused,Science
+503,676,2019-09-18,Unexcused,Language Arts
+504,2133,2020-04-08,Excused,Mathematics
+505,2101,2020-01-30,Unexcused,Mathematics
+506,1816,2019-10-02,Excused,Language Arts
+507,1919,2019-10-21,Excused,Mathematics
+508,1944,2020-02-18,Unexcused,Language Arts
+509,705,2020-01-31,Excused,Language Arts
+510,2298,2020-02-06,Unexcused,Mathematics
+511,816,2019-10-29,Excused,Health/Physical Education
+512,1037,2019-09-03,Excused,Mathematics
+513,2372,2019-09-02,Excused,Language Arts
+514,270,2020-02-29,Excused,Mathematics
+515,1598,2020-01-02,Unexcused,Language Arts
+516,1777,2020-02-01,Excused,Science
+517,2427,2020-04-27,Excused,Health/Physical Education
+518,1749,2019-10-23,Unexcused,Language Arts
+519,278,2019-09-28,Excused,Language Arts
+520,1036,2019-11-20,Unexcused,Social Studies
+521,1350,2020-03-14,Excused,Health/Physical Education
+522,1880,2019-12-27,Unexcused,Mathematics
+523,375,2020-02-14,Unexcused,Science
+524,588,2019-12-19,Unexcused,Social Studies
+525,1469,2020-03-18,Excused,Mathematics
+526,1855,2019-11-23,Unexcused,Health/Physical Education
+527,416,2019-10-11,Unexcused,Science
+528,28,2020-03-11,Unexcused,Mathematics
+529,1314,2020-03-28,Excused,Language Arts
+530,1373,2019-11-27,Unexcused,Science
+531,1370,2020-01-29,Unexcused,Science
+532,291,2019-09-30,Excused,Social Studies
+533,2146,2020-03-13,Excused,Science
+534,2169,2019-10-22,Excused,Language Arts
+535,737,2019-09-22,Excused,Language Arts
+536,518,2019-10-23,Excused,Mathematics
+537,804,2019-11-28,Unexcused,Language Arts
+538,1230,2020-04-07,Excused,Mathematics
+539,348,2019-11-18,Unexcused,Language Arts
+540,1718,2020-01-19,Unexcused,Science
+541,1883,2019-10-17,Unexcused,Health/Physical Education
+542,1946,2019-09-21,Excused,Health/Physical Education
+543,1613,2019-12-27,Unexcused,Mathematics
+544,2337,2019-11-03,Excused,Social Studies
+545,1013,2020-01-01,Excused,Language Arts
+546,2141,2019-08-31,Excused,Science
+547,2140,2019-11-07,Unexcused,Health/Physical Education
+548,814,2019-12-01,Unexcused,Language Arts
+549,2208,2019-09-09,Unexcused,Health/Physical Education
+550,589,2019-11-20,Excused,Mathematics
+551,2228,2020-03-06,Unexcused,Science
+552,411,2019-09-11,Excused,Health/Physical Education
+553,1198,2020-04-27,Excused,Mathematics
+554,742,2020-02-11,Excused,Language Arts
+555,315,2019-12-20,Unexcused,Mathematics
+556,495,2020-04-22,Unexcused,Mathematics
+557,1240,2019-10-28,Unexcused,Language Arts
+558,1504,2020-03-17,Unexcused,Science
+559,2120,2020-01-15,Excused,Health/Physical Education
+560,446,2020-04-30,Excused,Science
+561,1743,2020-02-11,Excused,Science
+562,1654,2020-02-07,Excused,Social Studies
+563,2202,2019-09-01,Excused,Mathematics
+564,276,2019-10-28,Unexcused,Mathematics
+565,2193,2020-02-20,Unexcused,Mathematics
+566,510,2020-03-29,Unexcused,Social Studies
+567,917,2019-10-01,Unexcused,Mathematics
+568,480,2019-12-19,Excused,Social Studies
+569,1631,2019-10-02,Unexcused,Science
+570,1766,2020-02-13,Unexcused,Mathematics
+571,2321,2020-04-03,Unexcused,Science
+572,401,2020-04-07,Unexcused,Science
+573,1117,2020-01-08,Unexcused,Mathematics
+574,1663,2020-01-22,Excused,Social Studies
+575,824,2020-03-18,Unexcused,Mathematics
+576,485,2019-09-05,Unexcused,Language Arts
+577,239,2019-09-22,Excused,Health/Physical Education
+578,1801,2019-11-18,Unexcused,Language Arts
+579,1288,2020-04-29,Unexcused,Mathematics
+580,1613,2020-04-29,Unexcused,Mathematics
+581,167,2020-03-05,Unexcused,Health/Physical Education
+582,1941,2019-11-20,Excused,Health/Physical Education
+583,2411,2019-09-20,Excused,Language Arts
+584,1576,2019-12-20,Excused,Health/Physical Education
+585,607,2019-10-06,Excused,Health/Physical Education
+586,34,2019-11-04,Excused,Language Arts
+587,565,2019-10-24,Excused,Language Arts
+588,1983,2019-09-18,Excused,Science
+589,147,2019-10-06,Unexcused,Health/Physical Education
+590,1528,2020-04-02,Unexcused,Mathematics
+591,1489,2019-10-09,Unexcused,Language Arts
+592,1948,2019-11-18,Unexcused,Health/Physical Education
+593,2107,2019-11-18,Excused,Language Arts
+594,2270,2020-02-10,Excused,Science
+595,1394,2020-01-27,Excused,Mathematics
+596,2278,2020-02-08,Unexcused,Mathematics
+597,974,2019-09-04,Excused,Science
+598,1612,2020-01-19,Excused,Mathematics
+599,2108,2020-04-30,Excused,Mathematics
+600,933,2020-03-02,Unexcused,Health/Physical Education
+601,1514,2019-09-22,Unexcused,Science
+602,507,2019-12-10,Unexcused,Language Arts
+603,2461,2020-03-30,Excused,Language Arts
+604,421,2019-09-16,Unexcused,Social Studies
+605,2104,2020-04-08,Unexcused,Science
+606,1289,2020-03-30,Unexcused,Science
+607,671,2019-10-19,Unexcused,Science
+608,2254,2019-09-15,Excused,Social Studies
+609,1127,2020-04-24,Excused,Mathematics
+610,718,2020-03-23,Unexcused,Mathematics
+611,84,2020-01-11,Unexcused,Science
+612,1959,2019-11-26,Unexcused,Science
+613,291,2019-10-27,Excused,Science
+614,1448,2019-12-09,Excused,Social Studies
+615,1949,2020-03-13,Excused,Health/Physical Education
+616,1707,2020-03-07,Excused,Science
+617,1183,2020-03-31,Unexcused,Science
+618,2011,2019-12-28,Excused,Social Studies
+619,20,2019-10-19,Unexcused,Social Studies
+620,1949,2020-01-05,Excused,Mathematics
+621,221,2020-01-18,Unexcused,Language Arts
+622,2463,2019-10-28,Excused,Language Arts
+623,1621,2019-10-26,Excused,Science
+624,1684,2019-10-11,Unexcused,Mathematics
+625,1285,2020-01-05,Unexcused,Mathematics
+626,1402,2019-10-09,Unexcused,Mathematics
+627,277,2019-12-04,Excused,Health/Physical Education
+628,2086,2020-02-26,Excused,Social Studies
+629,2442,2020-04-16,Unexcused,Social Studies
+630,762,2019-12-14,Unexcused,Health/Physical Education
+631,1417,2019-10-20,Excused,Social Studies
+632,2443,2019-12-27,Unexcused,Science
+633,1603,2020-02-23,Excused,Language Arts
+634,1603,2019-09-03,Unexcused,Language Arts
+635,840,2019-12-29,Unexcused,Health/Physical Education
+636,23,2019-09-23,Excused,Health/Physical Education
+637,569,2020-03-16,Excused,Social Studies
+638,72,2020-01-21,Excused,Mathematics
+639,1754,2019-09-02,Excused,Language Arts
+640,677,2019-12-06,Unexcused,Mathematics
+641,1122,2020-01-01,Excused,Language Arts
+642,140,2020-04-26,Unexcused,Mathematics
+643,746,2019-11-15,Excused,Social Studies
+644,413,2019-11-24,Unexcused,Social Studies
+645,451,2020-01-07,Unexcused,Science
+646,2455,2019-09-12,Unexcused,Health/Physical Education
+647,714,2020-02-11,Unexcused,Science
+648,28,2019-11-09,Unexcused,Health/Physical Education
+649,1323,2019-09-10,Excused,Mathematics
+650,2041,2020-02-16,Excused,Science
+651,507,2019-11-03,Excused,Social Studies
+652,1910,2020-04-18,Unexcused,Language Arts
+653,92,2019-11-24,Excused,Language Arts
+654,90,2020-04-06,Unexcused,Science
+655,2284,2019-09-19,Excused,Health/Physical Education
+656,433,2020-05-01,Excused,Science
+657,145,2020-05-04,Excused,Health/Physical Education
+658,1326,2020-02-12,Unexcused,Health/Physical Education
+659,1071,2019-12-21,Excused,Science
+660,1576,2019-10-16,Unexcused,Health/Physical Education
+661,598,2020-01-07,Unexcused,Social Studies
+662,576,2020-01-13,Excused,Mathematics
+663,693,2020-03-28,Excused,Science
+664,1762,2019-11-05,Excused,Science
+665,579,2020-03-16,Excused,Mathematics
+666,917,2019-08-29,Excused,Language Arts
+667,1200,2019-09-08,Excused,Mathematics
+668,99,2020-04-11,Excused,Mathematics
+669,2171,2019-12-18,Excused,Science
+670,245,2020-01-10,Excused,Language Arts
+671,2215,2019-11-25,Unexcused,Science
+672,2271,2019-08-30,Excused,Language Arts
+673,1098,2020-04-14,Excused,Science
+674,1832,2020-03-07,Excused,Social Studies
+675,501,2020-04-16,Unexcused,Health/Physical Education
+676,676,2019-10-14,Excused,Science
+677,97,2020-03-23,Excused,Science
+678,1193,2019-09-12,Unexcused,Language Arts
+679,2073,2020-02-10,Excused,Health/Physical Education
+680,1126,2020-04-05,Unexcused,Science
+681,908,2020-04-06,Excused,Health/Physical Education
+682,1849,2020-01-27,Unexcused,Social Studies
+683,2105,2020-03-06,Unexcused,Health/Physical Education
+684,1598,2020-04-10,Unexcused,Health/Physical Education
+685,1021,2020-03-15,Excused,Language Arts
+686,978,2019-10-24,Unexcused,Language Arts
+687,2111,2020-02-28,Unexcused,Mathematics
+688,64,2019-12-06,Excused,Social Studies
+689,1935,2019-11-10,Unexcused,Mathematics
+690,2292,2020-03-14,Excused,Health/Physical Education
+691,1088,2019-11-29,Excused,Social Studies
+692,840,2019-10-19,Unexcused,Language Arts
+693,1980,2020-02-21,Unexcused,Language Arts
+694,1673,2020-01-16,Excused,Social Studies
+695,1203,2019-12-30,Unexcused,Health/Physical Education
+696,2034,2019-09-03,Unexcused,Social Studies
+697,1648,2019-10-31,Unexcused,Social Studies
+698,252,2020-05-01,Unexcused,Social Studies
+699,2146,2020-01-31,Excused,Social Studies
+700,1416,2020-01-19,Excused,Health/Physical Education
+701,265,2019-10-16,Unexcused,Mathematics
+702,1376,2020-03-10,Unexcused,Health/Physical Education
+703,1318,2019-09-04,Excused,Social Studies
+704,1852,2020-04-03,Excused,Health/Physical Education
+705,149,2019-12-04,Excused,Language Arts
+706,947,2020-04-05,Excused,Mathematics
+707,51,2019-08-30,Excused,Social Studies
+708,598,2020-01-04,Unexcused,Language Arts
+709,1412,2019-10-08,Excused,Health/Physical Education
+710,1758,2019-12-20,Unexcused,Mathematics
+711,1638,2020-04-15,Unexcused,Science
+712,2187,2019-09-13,Unexcused,Health/Physical Education
+713,2482,2020-01-31,Excused,Mathematics
+714,106,2020-04-01,Excused,Mathematics
+715,1823,2019-09-04,Unexcused,Mathematics
+716,1727,2020-03-23,Excused,Health/Physical Education
+717,2235,2019-10-14,Unexcused,Science
+718,23,2019-10-19,Unexcused,Language Arts
+719,320,2020-03-26,Excused,Mathematics
+720,750,2020-02-27,Unexcused,Science
+721,254,2020-03-29,Excused,Science
+722,283,2019-11-22,Unexcused,Mathematics
+723,2302,2020-03-22,Excused,Science
+724,2135,2020-01-07,Excused,Health/Physical Education
+725,1686,2020-04-15,Unexcused,Language Arts
+726,1836,2020-04-21,Excused,Health/Physical Education
+727,1548,2020-02-04,Excused,Mathematics
+728,2481,2019-12-29,Unexcused,Science
+729,106,2020-02-08,Excused,Language Arts
+730,315,2020-03-22,Excused,Science
+731,1145,2020-05-03,Excused,Health/Physical Education
+732,1778,2020-03-10,Unexcused,Health/Physical Education
+733,407,2020-01-11,Unexcused,Social Studies
+734,412,2019-09-23,Unexcused,Mathematics
+735,784,2020-01-28,Unexcused,Health/Physical Education
+736,1877,2019-12-30,Excused,Social Studies
+737,1458,2020-03-16,Excused,Mathematics
+738,439,2019-09-20,Unexcused,Language Arts
+739,1390,2020-02-24,Unexcused,Mathematics
+740,1313,2020-03-16,Unexcused,Health/Physical Education
+741,834,2020-04-27,Unexcused,Science
+742,1285,2020-03-04,Unexcused,Language Arts
+743,1214,2020-05-03,Unexcused,Social Studies
+744,1070,2019-12-04,Unexcused,Science
+745,841,2019-11-26,Excused,Language Arts
+746,353,2020-01-12,Unexcused,Language Arts
+747,2161,2019-09-19,Excused,Social Studies
+748,1588,2020-02-06,Unexcused,Health/Physical Education
+749,974,2020-02-11,Unexcused,Language Arts
+750,2486,2020-04-29,Excused,Language Arts
+751,684,2019-12-17,Excused,Social Studies
+752,1585,2019-12-06,Excused,Science
+753,1167,2019-09-27,Excused,Social Studies
+754,153,2019-09-29,Unexcused,Health/Physical Education
+755,2199,2019-10-17,Excused,Language Arts
+756,1847,2020-01-08,Unexcused,Social Studies
+757,1151,2020-04-02,Unexcused,Mathematics
+758,1027,2019-08-30,Excused,Mathematics
+759,2376,2020-01-17,Unexcused,Science
+760,1591,2020-03-09,Unexcused,Health/Physical Education
+761,1415,2020-03-01,Excused,Language Arts
+762,1571,2019-10-05,Unexcused,Science
+763,1752,2019-08-27,Excused,Mathematics
+764,878,2019-09-18,Unexcused,Science
+765,566,2020-03-13,Unexcused,Mathematics
+766,39,2020-04-10,Excused,Science
+767,2328,2019-10-30,Excused,Science
+768,924,2019-09-18,Excused,Mathematics
+769,2478,2019-12-18,Excused,Health/Physical Education
+770,2050,2019-12-28,Excused,Health/Physical Education
+771,1610,2020-02-29,Unexcused,Language Arts
+772,2472,2019-10-08,Excused,Language Arts
+773,393,2020-03-09,Excused,Mathematics
+774,1556,2019-10-24,Unexcused,Language Arts
+775,625,2020-03-28,Excused,Science
+776,460,2019-11-10,Unexcused,Language Arts
+777,1367,2020-01-15,Excused,Health/Physical Education
+778,1503,2019-11-22,Unexcused,Health/Physical Education
+779,1867,2020-03-03,Excused,Language Arts
+780,2294,2019-12-30,Excused,Social Studies
+781,1296,2020-03-26,Excused,Science
+782,2166,2020-02-13,Unexcused,Science
+783,1047,2020-01-20,Excused,Mathematics
+784,1897,2019-12-27,Unexcused,Science
+785,1160,2019-10-24,Excused,Science
+786,955,2020-04-23,Unexcused,Science
+787,1182,2020-03-16,Unexcused,Science
+788,314,2020-01-17,Unexcused,Mathematics
+789,1402,2020-01-03,Unexcused,Mathematics
+790,385,2020-01-09,Excused,Health/Physical Education
+791,981,2020-03-10,Unexcused,Language Arts
+792,2300,2019-11-29,Unexcused,Health/Physical Education
+793,1239,2020-01-19,Unexcused,Health/Physical Education
+794,959,2019-11-17,Excused,Language Arts
+795,742,2020-01-23,Excused,Social Studies
+796,1532,2019-10-23,Excused,Social Studies
+797,281,2020-01-26,Unexcused,Mathematics
+798,51,2020-02-02,Unexcused,Social Studies
+799,891,2019-08-31,Unexcused,Health/Physical Education
+800,2285,2019-10-29,Unexcused,Social Studies
+801,808,2019-11-24,Excused,Science
+802,1490,2020-04-24,Excused,Health/Physical Education
+803,1241,2020-01-09,Unexcused,Science
+804,1110,2020-03-13,Unexcused,Science
+805,78,2020-01-27,Unexcused,Health/Physical Education
+806,333,2020-04-17,Excused,Health/Physical Education
+807,1530,2020-02-13,Unexcused,Social Studies
+808,891,2019-11-01,Unexcused,Social Studies
+809,402,2019-11-25,Excused,Science
+810,776,2020-03-15,Excused,Social Studies
+811,2127,2019-11-19,Unexcused,Mathematics
+812,392,2020-03-11,Excused,Health/Physical Education
+813,1748,2020-02-01,Excused,Language Arts
+814,1167,2019-11-01,Unexcused,Mathematics
+815,1198,2020-02-11,Excused,Language Arts
+816,1780,2019-12-15,Unexcused,Language Arts
+817,734,2020-02-18,Excused,Mathematics
+818,1875,2020-01-09,Unexcused,Mathematics
+819,1094,2020-02-07,Excused,Social Studies
+820,1792,2020-04-26,Unexcused,Social Studies
+821,521,2019-11-28,Excused,Language Arts
+822,2342,2020-04-01,Excused,Mathematics
+823,1389,2020-02-24,Excused,Science
+824,341,2020-03-24,Excused,Language Arts
+825,849,2020-03-07,Excused,Health/Physical Education
+826,908,2019-11-10,Excused,Mathematics
+827,165,2020-03-28,Excused,Social Studies
+828,2349,2020-04-13,Unexcused,Language Arts
+829,2158,2019-09-13,Excused,Science
+830,1720,2019-10-19,Unexcused,Social Studies
+831,276,2020-01-21,Unexcused,Health/Physical Education
+832,1669,2020-03-18,Unexcused,Social Studies
+833,118,2019-09-13,Unexcused,Science
+834,2359,2020-03-19,Unexcused,Social Studies
+835,2079,2019-10-24,Unexcused,Language Arts
+836,158,2020-03-08,Excused,Mathematics
+837,463,2019-09-04,Excused,Science
+838,2430,2020-04-15,Unexcused,Language Arts
+839,1492,2019-12-02,Unexcused,Language Arts
+840,846,2019-09-06,Excused,Mathematics
+841,767,2019-08-30,Excused,Language Arts
+842,2019,2019-10-22,Excused,Science
+843,2446,2019-11-17,Unexcused,Health/Physical Education
+844,1657,2019-11-30,Unexcused,Language Arts
+845,1604,2020-04-08,Unexcused,Mathematics
+846,1961,2019-10-02,Unexcused,Science
+847,1316,2020-02-05,Unexcused,Language Arts
+848,1737,2019-12-12,Excused,Mathematics
+849,15,2019-11-18,Excused,Social Studies
+850,2478,2019-11-23,Unexcused,Health/Physical Education
+851,1281,2019-09-06,Unexcused,Science
+852,401,2020-04-04,Excused,Health/Physical Education
+853,602,2019-11-29,Excused,Health/Physical Education
+854,278,2020-01-25,Unexcused,Mathematics
+855,1926,2020-04-21,Excused,Mathematics
+856,2309,2019-12-10,Excused,Science
+857,900,2020-01-22,Excused,Mathematics
+858,2381,2019-09-18,Unexcused,Social Studies
+859,221,2019-09-08,Unexcused,Mathematics
+860,219,2020-02-28,Excused,Social Studies
+861,960,2019-09-06,Unexcused,Science
+862,714,2020-03-06,Unexcused,Social Studies
+863,721,2019-12-16,Excused,Health/Physical Education
+864,2268,2020-02-01,Unexcused,Social Studies
+865,2157,2019-12-22,Excused,Social Studies
+866,1425,2019-10-27,Excused,Health/Physical Education
+867,1006,2019-10-31,Excused,Language Arts
+868,1338,2019-11-02,Unexcused,Science
+869,525,2019-09-03,Unexcused,Science
+870,419,2020-05-01,Unexcused,Mathematics
+871,2112,2020-02-21,Excused,Social Studies
+872,2258,2020-04-02,Unexcused,Health/Physical Education
+873,1155,2020-01-23,Excused,Language Arts
+874,1680,2019-11-10,Unexcused,Mathematics
+875,2380,2019-11-23,Unexcused,Science
+876,360,2019-11-26,Unexcused,Language Arts
+877,495,2020-02-12,Unexcused,Health/Physical Education
+878,621,2019-09-28,Excused,Social Studies
+879,675,2019-10-22,Unexcused,Science
+880,1573,2020-05-01,Excused,Mathematics
+881,2482,2019-11-09,Excused,Social Studies
+882,403,2019-09-28,Excused,Health/Physical Education
+883,568,2020-01-04,Excused,Health/Physical Education
+884,968,2019-11-30,Unexcused,Language Arts
+885,1286,2020-04-25,Unexcused,Social Studies
+886,2394,2020-04-03,Excused,Science
+887,109,2019-10-24,Excused,Health/Physical Education
+888,1147,2019-10-20,Excused,Social Studies
+889,685,2020-05-01,Unexcused,Language Arts
+890,479,2019-12-05,Unexcused,Social Studies
+891,2351,2019-09-12,Excused,Mathematics
+892,2402,2019-10-17,Unexcused,Social Studies
+893,1972,2020-03-05,Unexcused,Language Arts
+894,457,2019-08-25,Unexcused,Science
+895,658,2019-09-01,Unexcused,Language Arts
+896,1434,2020-04-30,Unexcused,Social Studies
+897,1898,2019-11-02,Excused,Science
+898,614,2020-02-11,Excused,Health/Physical Education
+899,1753,2019-11-17,Excused,Science
+900,3,2020-01-24,Excused,Language Arts
+901,1993,2020-03-09,Excused,Language Arts
+902,1012,2020-02-10,Excused,Language Arts
+903,2261,2019-11-03,Unexcused,Health/Physical Education
+904,2148,2020-03-07,Unexcused,Health/Physical Education
+905,1930,2020-04-30,Excused,Health/Physical Education
+906,316,2019-11-07,Excused,Social Studies
+907,1851,2020-01-10,Excused,Science
+908,1675,2020-03-29,Unexcused,Health/Physical Education
+909,225,2020-04-24,Unexcused,Language Arts
+910,6,2020-02-08,Unexcused,Health/Physical Education
+911,1528,2020-01-18,Excused,Social Studies
+912,663,2020-01-25,Excused,Social Studies
+913,1984,2019-08-30,Unexcused,Language Arts
+914,18,2020-01-27,Unexcused,Mathematics
+915,1692,2020-02-03,Unexcused,Health/Physical Education
+916,503,2019-09-17,Unexcused,Health/Physical Education
+917,340,2019-09-26,Unexcused,Mathematics
+918,351,2019-10-13,Unexcused,Mathematics
+919,2265,2019-09-17,Excused,Science
+920,1538,2020-03-23,Unexcused,Language Arts
+921,2428,2019-09-07,Unexcused,Science
+922,1953,2019-10-12,Excused,Health/Physical Education
+923,1475,2019-12-05,Excused,Social Studies
+924,1328,2019-09-24,Unexcused,Science
+925,2459,2020-04-04,Unexcused,Social Studies
+926,157,2019-09-02,Unexcused,Science
+927,1478,2020-04-04,Unexcused,Mathematics
+928,303,2020-04-17,Unexcused,Social Studies
+929,1523,2019-11-18,Excused,Mathematics
+930,2316,2020-03-10,Excused,Health/Physical Education
+931,691,2020-02-26,Excused,Language Arts
+932,1813,2020-03-31,Unexcused,Language Arts
+933,2027,2020-04-06,Unexcused,Mathematics
+934,795,2020-02-07,Unexcused,Science
+935,2151,2020-01-16,Unexcused,Health/Physical Education
+936,351,2020-02-19,Unexcused,Health/Physical Education
+937,185,2020-04-19,Excused,Language Arts
+938,415,2020-03-05,Unexcused,Health/Physical Education
+939,550,2020-03-30,Unexcused,Mathematics
+940,1417,2020-04-13,Excused,Mathematics
+941,2325,2020-04-30,Excused,Mathematics
+942,1202,2019-12-06,Unexcused,Science
+943,1232,2020-01-29,Excused,Language Arts
+944,1983,2019-09-28,Unexcused,Language Arts
+945,662,2020-01-07,Excused,Health/Physical Education
+946,1861,2019-09-08,Unexcused,Social Studies
+947,1663,2019-10-06,Excused,Science
+948,69,2019-11-21,Excused,Science
+949,2317,2019-11-15,Unexcused,Health/Physical Education
+950,2243,2020-03-24,Excused,Science
+951,1596,2020-01-02,Unexcused,Health/Physical Education
+952,1518,2019-12-31,Excused,Language Arts
+953,777,2020-01-06,Unexcused,Language Arts
+954,125,2020-02-15,Excused,Mathematics
+955,2447,2019-12-16,Excused,Social Studies
+956,759,2020-03-17,Unexcused,Health/Physical Education
+957,647,2019-12-01,Excused,Science
+958,2474,2020-01-09,Excused,Language Arts
+959,1710,2020-02-29,Excused,Language Arts
+960,731,2020-04-23,Unexcused,Health/Physical Education
+961,914,2019-12-23,Excused,Science
+962,461,2019-11-17,Unexcused,Health/Physical Education
+963,1509,2019-09-15,Unexcused,Health/Physical Education
+964,2420,2019-09-22,Excused,Social Studies
+965,1684,2019-10-31,Unexcused,Health/Physical Education
+966,819,2020-05-02,Unexcused,Language Arts
+967,490,2020-02-03,Excused,Language Arts
+968,330,2019-12-25,Excused,Mathematics
+969,719,2020-02-11,Excused,Mathematics
+970,184,2019-10-14,Unexcused,Health/Physical Education
+971,1597,2019-10-11,Excused,Mathematics
+972,2311,2019-12-23,Excused,Health/Physical Education
+973,468,2020-03-18,Unexcused,Mathematics
+974,1717,2019-09-03,Unexcused,Social Studies
+975,880,2020-01-31,Excused,Mathematics
+976,1683,2020-02-12,Unexcused,Mathematics
+977,1956,2020-02-11,Excused,Language Arts
+978,973,2019-12-20,Unexcused,Science
+979,1291,2020-03-27,Unexcused,Language Arts
+980,328,2020-04-02,Unexcused,Health/Physical Education
+981,2016,2020-02-11,Unexcused,Health/Physical Education
+982,1265,2020-01-31,Unexcused,Mathematics
+983,2237,2020-01-26,Excused,Science
+984,2356,2019-11-07,Excused,Language Arts
+985,1587,2019-11-09,Excused,Social Studies
+986,1051,2019-12-28,Unexcused,Social Studies
+987,2336,2020-03-30,Excused,Language Arts
+988,1705,2020-01-14,Excused,Mathematics
+989,65,2019-12-13,Excused,Mathematics
+990,80,2020-05-01,Unexcused,Social Studies
+991,1195,2020-02-14,Unexcused,Social Studies
+992,1249,2020-01-07,Excused,Health/Physical Education
+993,760,2019-09-11,Excused,Language Arts
+994,2209,2020-01-10,Excused,Mathematics
+995,3,2019-11-07,Excused,Science
+996,2428,2020-03-03,Excused,Science
+997,2220,2020-04-04,Unexcused,Health/Physical Education
+998,1865,2019-10-20,Excused,Science
+999,13,2019-11-19,Unexcused,Science

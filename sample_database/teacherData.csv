@@ -1,0 +1,226 @@
+,name,course,middleSchool,grade,teacherID
+0,Roger Williams,Language Arts,Burley Middle School,6,1
+1,Joshua Moore,Language Arts,Burley Middle School,6,2
+2,Renee Harrison,Language Arts,Burley Middle School,6,3
+3,Brandon Taylor,Social Studies,Burley Middle School,6,4
+4,John Dean,Social Studies,Burley Middle School,6,5
+5,Richard Wright,Social Studies,Burley Middle School,6,6
+6,Wendy Gonzales,Health/Physical Education,Burley Middle School,6,7
+7,Kimberly Gallagher,Health/Physical Education,Burley Middle School,6,8
+8,Robert Jordan,Health/Physical Education,Burley Middle School,6,9
+9,Jerry Riley,Mathematics,Burley Middle School,6,10
+10,Samantha Meza,Mathematics,Burley Middle School,6,11
+11,Mary Sanders,Mathematics,Burley Middle School,6,12
+12,Matthew Sharp,Science,Burley Middle School,6,13
+13,James Randall,Science,Burley Middle School,6,14
+14,Kristi Choi,Science,Burley Middle School,6,15
+15,Regina Hodges,Language Arts,Henley Middle School,6,16
+16,Suzanne Daniel,Language Arts,Henley Middle School,6,17
+17,Tyler Wiley,Language Arts,Henley Middle School,6,18
+18,Chase Jones,Social Studies,Henley Middle School,6,19
+19,Cody Mejia,Social Studies,Henley Middle School,6,20
+20,Christopher Mahoney,Social Studies,Henley Middle School,6,21
+21,Elizabeth Jones,Health/Physical Education,Henley Middle School,6,22
+22,Carolyn Wilcox,Health/Physical Education,Henley Middle School,6,23
+23,Shawn Weaver,Health/Physical Education,Henley Middle School,6,24
+24,Holly Smith,Mathematics,Henley Middle School,6,25
+25,Michael Byrd,Mathematics,Henley Middle School,6,26
+26,Jonathan Soto,Mathematics,Henley Middle School,6,27
+27,Travis Moran,Science,Henley Middle School,6,28
+28,Audrey Phillips,Science,Henley Middle School,6,29
+29,Bradley Thompson,Science,Henley Middle School,6,30
+30,Bruce Smith,Language Arts,Jouett Middle School,6,31
+31,Jon Poole,Language Arts,Jouett Middle School,6,32
+32,Vanessa Smith,Language Arts,Jouett Middle School,6,33
+33,Jon Turner,Social Studies,Jouett Middle School,6,34
+34,Susan Vincent,Social Studies,Jouett Middle School,6,35
+35,Mary Turner,Social Studies,Jouett Middle School,6,36
+36,Larry Rollins,Health/Physical Education,Jouett Middle School,6,37
+37,Linda Herrera,Health/Physical Education,Jouett Middle School,6,38
+38,Steven Brown,Health/Physical Education,Jouett Middle School,6,39
+39,Daniel Wong,Mathematics,Jouett Middle School,6,40
+40,Samuel Bolton,Mathematics,Jouett Middle School,6,41
+41,Samantha Patterson,Mathematics,Jouett Middle School,6,42
+42,Thomas Freeman,Science,Jouett Middle School,6,43
+43,Eric Morris,Science,Jouett Middle School,6,44
+44,Carol Kramer,Science,Jouett Middle School,6,45
+45,Cristina Delgado,Language Arts,Lakeside Middle School,6,46
+46,Mathew Baldwin,Language Arts,Lakeside Middle School,6,47
+47,Nicole Pearson,Language Arts,Lakeside Middle School,6,48
+48,Kayla Mercado,Social Studies,Lakeside Middle School,6,49
+49,Maurice Hall,Social Studies,Lakeside Middle School,6,50
+50,Brittany Byrd,Social Studies,Lakeside Middle School,6,51
+51,Katrina Watson,Health/Physical Education,Lakeside Middle School,6,52
+52,Karen Sanchez,Health/Physical Education,Lakeside Middle School,6,53
+53,Danielle Dixon,Health/Physical Education,Lakeside Middle School,6,54
+54,Deborah Nguyen,Mathematics,Lakeside Middle School,6,55
+55,Michael Jackson,Mathematics,Lakeside Middle School,6,56
+56,William Cunningham,Mathematics,Lakeside Middle School,6,57
+57,Laura Silva,Science,Lakeside Middle School,6,58
+58,Rachel Morrow,Science,Lakeside Middle School,6,59
+59,Shannon Williams,Science,Lakeside Middle School,6,60
+60,Kerri Murray,Language Arts,Walton Middle School,6,61
+61,Xavier Leon,Language Arts,Walton Middle School,6,62
+62,Richard Miles,Language Arts,Walton Middle School,6,63
+63,Kevin Smith,Social Studies,Walton Middle School,6,64
+64,Lee Gutierrez,Social Studies,Walton Middle School,6,65
+65,Mark Miller,Social Studies,Walton Middle School,6,66
+66,Justin Neal,Health/Physical Education,Walton Middle School,6,67
+67,Steven Martinez,Health/Physical Education,Walton Middle School,6,68
+68,Erik Flores,Health/Physical Education,Walton Middle School,6,69
+69,Kevin Young,Mathematics,Walton Middle School,6,70
+70,Mark Gonzalez,Mathematics,Walton Middle School,6,71
+71,Tabitha Hernandez,Mathematics,Walton Middle School,6,72
+72,Aaron Strickland,Science,Walton Middle School,6,73
+73,Jennifer Myers,Science,Walton Middle School,6,74
+74,Zachary Nichols,Science,Walton Middle School,6,75
+75,Timothy Pugh,Language Arts,Burley Middle School,7,76
+76,Maria Molina,Language Arts,Burley Middle School,7,77
+77,Rachel Cohen,Language Arts,Burley Middle School,7,78
+78,Frank Barker,Social Studies,Burley Middle School,7,79
+79,Rachel Lopez,Social Studies,Burley Middle School,7,80
+80,Melissa Molina,Social Studies,Burley Middle School,7,81
+81,Jamie Mathews,Health/Physical Education,Burley Middle School,7,82
+82,Patricia Figueroa,Health/Physical Education,Burley Middle School,7,83
+83,Donna Conley,Health/Physical Education,Burley Middle School,7,84
+84,Tammy Morris,Mathematics,Burley Middle School,7,85
+85,Richard Crawford,Mathematics,Burley Middle School,7,86
+86,John Wright,Mathematics,Burley Middle School,7,87
+87,Paul Hanson,Life Science,Burley Middle School,7,88
+88,Laura Myers,Life Science,Burley Middle School,7,89
+89,Joshua Briggs,Life Science,Burley Middle School,7,90
+90,James Taylor,Language Arts,Henley Middle School,7,91
+91,John Carney,Language Arts,Henley Middle School,7,92
+92,Lisa Mcguire,Language Arts,Henley Middle School,7,93
+93,Gary Roth,Social Studies,Henley Middle School,7,94
+94,Gwendolyn Jackson,Social Studies,Henley Middle School,7,95
+95,Kristen Smith,Social Studies,Henley Middle School,7,96
+96,Kristen Moses,Health/Physical Education,Henley Middle School,7,97
+97,Carl Stephens,Health/Physical Education,Henley Middle School,7,98
+98,William Long,Health/Physical Education,Henley Middle School,7,99
+99,Christine Lynch,Mathematics,Henley Middle School,7,100
+100,Mary Tyler,Mathematics,Henley Middle School,7,101
+101,Jeremy Nunez,Mathematics,Henley Middle School,7,102
+102,Kimberly Maynard,Life Science,Henley Middle School,7,103
+103,Brandon Williams,Life Science,Henley Middle School,7,104
+104,Brenda Bautista,Life Science,Henley Middle School,7,105
+105,Ann Martin,Language Arts,Jouett Middle School,7,106
+106,Tiffany Kelly,Language Arts,Jouett Middle School,7,107
+107,Robert Fisher,Language Arts,Jouett Middle School,7,108
+108,Meghan Cook,Social Studies,Jouett Middle School,7,109
+109,Rose Mccall,Social Studies,Jouett Middle School,7,110
+110,Carrie Warner,Social Studies,Jouett Middle School,7,111
+111,Erin Espinoza,Health/Physical Education,Jouett Middle School,7,112
+112,Kevin Garcia,Health/Physical Education,Jouett Middle School,7,113
+113,Shannon Wu,Health/Physical Education,Jouett Middle School,7,114
+114,Daryl Lowery,Mathematics,Jouett Middle School,7,115
+115,Zachary Vaughn,Mathematics,Jouett Middle School,7,116
+116,Lauren Carroll,Mathematics,Jouett Middle School,7,117
+117,Edward Brown,Life Science,Jouett Middle School,7,118
+118,Jose Elliott,Life Science,Jouett Middle School,7,119
+119,Sandra Adams,Life Science,Jouett Middle School,7,120
+120,Brian Rice,Language Arts,Lakeside Middle School,7,121
+121,Allison Floyd,Language Arts,Lakeside Middle School,7,122
+122,Samuel Mccoy,Language Arts,Lakeside Middle School,7,123
+123,Jose Hunter,Social Studies,Lakeside Middle School,7,124
+124,Scott Hammond,Social Studies,Lakeside Middle School,7,125
+125,Ryan Moore,Social Studies,Lakeside Middle School,7,126
+126,Anne Greene,Health/Physical Education,Lakeside Middle School,7,127
+127,Jorge Gibson,Health/Physical Education,Lakeside Middle School,7,128
+128,James Anderson,Health/Physical Education,Lakeside Middle School,7,129
+129,Regina Sanders,Mathematics,Lakeside Middle School,7,130
+130,Brett Carr,Mathematics,Lakeside Middle School,7,131
+131,Kelly Williams,Mathematics,Lakeside Middle School,7,132
+132,David Diaz,Life Science,Lakeside Middle School,7,133
+133,Aaron Hopkins,Life Science,Lakeside Middle School,7,134
+134,Laura Benjamin,Life Science,Lakeside Middle School,7,135
+135,Krista Wallace,Language Arts,Walton Middle School,7,136
+136,Katelyn Knight,Language Arts,Walton Middle School,7,137
+137,Laurie Strickland,Language Arts,Walton Middle School,7,138
+138,Andrea Vega,Social Studies,Walton Middle School,7,139
+139,Gwendolyn Anderson,Social Studies,Walton Middle School,7,140
+140,David Johnson,Social Studies,Walton Middle School,7,141
+141,Stephanie Alexander,Health/Physical Education,Walton Middle School,7,142
+142,Jason Fritz,Health/Physical Education,Walton Middle School,7,143
+143,Christina Jenkins,Health/Physical Education,Walton Middle School,7,144
+144,Joshua Boyd,Mathematics,Walton Middle School,7,145
+145,Thomas Salinas,Mathematics,Walton Middle School,7,146
+146,Jenna Smith,Mathematics,Walton Middle School,7,147
+147,Jennifer Lucas,Life Science,Walton Middle School,7,148
+148,Corey Bennett,Life Science,Walton Middle School,7,149
+149,Joshua Nelson,Life Science,Walton Middle School,7,150
+150,Leonard Patel,Language Arts,Burley Middle School,8,151
+151,Emily Sanchez,Language Arts,Burley Middle School,8,152
+152,Mario Harris,Language Arts,Burley Middle School,8,153
+153,Barbara Bruce,Social Studies,Burley Middle School,8,154
+154,Cynthia Hernandez,Social Studies,Burley Middle School,8,155
+155,Angela Lee,Social Studies,Burley Middle School,8,156
+156,Devin Wolf,Health/Physical Education,Burley Middle School,8,157
+157,David Nelson,Health/Physical Education,Burley Middle School,8,158
+158,Deborah Watson,Health/Physical Education,Burley Middle School,8,159
+159,Barbara Salazar,Mathematics,Burley Middle School,8,160
+160,Robert Kim,Mathematics,Burley Middle School,8,161
+161,Janet Bradford,Mathematics,Burley Middle School,8,162
+162,Anthony Levine,Physical Science,Burley Middle School,8,163
+163,Shane Sandoval,Physical Science,Burley Middle School,8,164
+164,Xavier Sanchez,Physical Science,Burley Middle School,8,165
+165,Paula House,Language Arts,Henley Middle School,8,166
+166,Amanda Johnson,Language Arts,Henley Middle School,8,167
+167,Jessica Reed,Language Arts,Henley Middle School,8,168
+168,Julia Mcconnell,Social Studies,Henley Middle School,8,169
+169,Nicole Waters,Social Studies,Henley Middle School,8,170
+170,Walter Long,Social Studies,Henley Middle School,8,171
+171,Robin Smith,Health/Physical Education,Henley Middle School,8,172
+172,Barbara Morgan,Health/Physical Education,Henley Middle School,8,173
+173,Blake Pennington,Health/Physical Education,Henley Middle School,8,174
+174,Michael Nelson,Mathematics,Henley Middle School,8,175
+175,Brandy Nelson,Mathematics,Henley Middle School,8,176
+176,Walter Ramos,Mathematics,Henley Middle School,8,177
+177,Madeline White,Physical Science,Henley Middle School,8,178
+178,Courtney Adams,Physical Science,Henley Middle School,8,179
+179,Monica Atkinson,Physical Science,Henley Middle School,8,180
+180,Angela Hughes,Language Arts,Jouett Middle School,8,181
+181,Michael Mcgee,Language Arts,Jouett Middle School,8,182
+182,Christina Gallegos,Language Arts,Jouett Middle School,8,183
+183,Samantha Duran,Social Studies,Jouett Middle School,8,184
+184,Joshua Farley,Social Studies,Jouett Middle School,8,185
+185,Peter Taylor,Social Studies,Jouett Middle School,8,186
+186,Cristina Matthews,Health/Physical Education,Jouett Middle School,8,187
+187,Jacqueline Barber,Health/Physical Education,Jouett Middle School,8,188
+188,William Garcia,Health/Physical Education,Jouett Middle School,8,189
+189,James Mason,Mathematics,Jouett Middle School,8,190
+190,Kurt Baker,Mathematics,Jouett Middle School,8,191
+191,Nathan Wyatt,Mathematics,Jouett Middle School,8,192
+192,Jessica Lee,Physical Science,Jouett Middle School,8,193
+193,Kelly Moore,Physical Science,Jouett Middle School,8,194
+194,Randall Caldwell,Physical Science,Jouett Middle School,8,195
+195,Carmen Weaver,Language Arts,Lakeside Middle School,8,196
+196,Alexandria Rojas,Language Arts,Lakeside Middle School,8,197
+197,William Williams,Language Arts,Lakeside Middle School,8,198
+198,Michael Huerta,Social Studies,Lakeside Middle School,8,199
+199,Stephanie Garner,Social Studies,Lakeside Middle School,8,200
+200,Corey Lewis,Social Studies,Lakeside Middle School,8,201
+201,Kristen Hernandez,Health/Physical Education,Lakeside Middle School,8,202
+202,Jason Hughes,Health/Physical Education,Lakeside Middle School,8,203
+203,Margaret Burton,Health/Physical Education,Lakeside Middle School,8,204
+204,Meghan Lee,Mathematics,Lakeside Middle School,8,205
+205,Stephanie Ortega,Mathematics,Lakeside Middle School,8,206
+206,Andrew Jensen,Mathematics,Lakeside Middle School,8,207
+207,Jeanette Lutz,Physical Science,Lakeside Middle School,8,208
+208,John Clay,Physical Science,Lakeside Middle School,8,209
+209,Megan Gibson,Physical Science,Lakeside Middle School,8,210
+210,Brenda Nguyen,Language Arts,Walton Middle School,8,211
+211,Eric Mann,Language Arts,Walton Middle School,8,212
+212,Emily Sexton,Language Arts,Walton Middle School,8,213
+213,Amy Ball,Social Studies,Walton Middle School,8,214
+214,Janet Vargas,Social Studies,Walton Middle School,8,215
+215,Timothy Collins,Social Studies,Walton Middle School,8,216
+216,Ryan Williams,Health/Physical Education,Walton Middle School,8,217
+217,Colin Saunders,Health/Physical Education,Walton Middle School,8,218
+218,Matthew Barnett,Health/Physical Education,Walton Middle School,8,219
+219,Sandra Gardner,Mathematics,Walton Middle School,8,220
+220,Vanessa Turner,Mathematics,Walton Middle School,8,221
+221,David Henry,Mathematics,Walton Middle School,8,222
+222,Erin Hayes,Physical Science,Walton Middle School,8,223
+223,Victor Trevino,Physical Science,Walton Middle School,8,224
+224,Tim Curry,Physical Science,Walton Middle School,8,225
