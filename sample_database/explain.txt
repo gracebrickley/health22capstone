@@ -1,0 +1,1 @@
+This is where we created a more generalizable schema with fake data.  Might be useful if we receive different types of data in the future such as survey data or teacher data.
